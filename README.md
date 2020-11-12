@@ -16,3 +16,7 @@ button at the top of the page.
 
 Looking for something more minimal that doesn't involve Parcel? Checkout the
 [sister `elm-netlify-minimal` project](https://github.com/JoelQ/elm-netlify-minimal).
+
+## License
+
+The repo is provided under the [MIT License](LICENSE).
