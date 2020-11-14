@@ -12,6 +12,18 @@ which allows you to initialize your own repo with the same files and directories
 as this (but not the history). To start using, click the big "Use this template"
 button at the top of the page.
 
+
+After you initialize your repo, clone it to your computer.
+
+Install everything: `yarn install`
+
+Start a dev server: `npm run start`
+
+Build a local copy: `npm run build`
+
+Check out the [parcel docs](https://parceljs.org/getting_started.html) to do more (the above commands are thin wrappers around parcel).
+
+
 ## Setup without parcel
 
 Looking for something more minimal that doesn't involve Parcel? Checkout the

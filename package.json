@@ -4,5 +4,9 @@
     "elm-hot": "^1.1.5",
     "node-elm-compiler": "^5.0.5",
     "parcel": "^1.12.4"
+  },
+  "scripts": {
+    "build": "parcel build src/index.html --public-url ./",
+    "start": "parcel src/index.html"
   }
 }
